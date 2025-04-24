@@ -1,0 +1,56 @@
+body {
+    background-color: #f1c40f; /* Warriors yellow */
+    color: #002F65; /* Warriors blue */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #002F65;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #f1c40f;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.intro, .lists, .media, .graph, .footer {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.intro {
+    background-color: #fffbe6;
+}
+
+.lists {
+    background-color: #e8f4fa;
+}
+
+.media {
+    background-color: #fef9e7;
+}
+
+.curry-pic {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+}
+
+.graph {
+    background-color: #ffffff;
+}
+
+.footer {
+    text-align: center;
+    background-color: #002F65;
+    color: white;
+    padding: 10px;
+}
